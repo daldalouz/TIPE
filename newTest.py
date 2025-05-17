@@ -24,7 +24,7 @@ class Noeud:
 
     def mettre_a_jour_noeud(self,graphe,etat_stable,update_queue):
         while not msvcrt.kbhit():
-            distance_minimale = self.valeur
+            distance_minimale = np.inf
             for voisin, distance in self.voisins:
                 distance_minimale = min(distance_minimale, voisin.valeur + distance)
             if self.valeur != distance_minimale:
