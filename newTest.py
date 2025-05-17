@@ -31,7 +31,7 @@ class Noeud:
               update_queue.put(self)
             ancienneval = self.valeur
             self.valeur = distance_minimale
-            print(f"Je m'appelle {self.id}, ma valeur est {self.valeur}, mon ancienne valeur est {ancienneval}, mon intervalle est {self.intervalle}")
+            print(f"Je m'appelle {self.id}, ma valeur est {self.valeur}, mon ancienne valeur est  {ancienneval}, mon intervalle est {self.intervalle}")
             if est_etat_stable(graphe, etat_stable):
                 print("\n✅ État stable atteint ! Tous les noeuds ont convergé.")
                 break
