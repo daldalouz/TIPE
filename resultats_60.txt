@@ -1,0 +1,200 @@
+
+=== Exécution 1 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 11, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 2 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 3, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 3 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 1, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 4 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 20, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 5 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 15, ma valeur est 18, mon ancienne valeur est 18 mon intervalle est 4500
+
+=== Exécution 6 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 22, ma valeur est 5, mon ancienne valeur est 5 mon intervalle est 4500
+
+=== Exécution 7 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 7, ma valeur est 12, mon ancienne valeur est 12 mon intervalle est 4500
+
+=== Exécution 8 ===
+Je m'appelle 23, ma valeur est 4, mon ancienne valeur est  4, mon intervalle est 1000
+[Ronde 3] Je m'appelle 13, ma valeur est 9, mon ancienne valeur est 9 mon intervalle est 4500
+
+=== Exécution 9 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 7, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 10 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 13, ma valeur est 11, mon ancienne valeur est 11 mon intervalle est 4500
+
+=== Exécution 11 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 4, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 12 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 2, ma valeur est 9, mon ancienne valeur est 9 mon intervalle est 4500
+
+=== Exécution 13 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 5] Je m'appelle 2, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 14 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 27, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 15 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 11, ma valeur est 14, mon ancienne valeur est 14 mon intervalle est 4500
+
+=== Exécution 16 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 7, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 17 ===
+Je m'appelle 10, ma valeur est 9, mon ancienne valeur est  9, mon intervalle est 1500
+[Ronde 3] Je m'appelle 4, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 18 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 2, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 19 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 7, ma valeur est 9, mon ancienne valeur est 9 mon intervalle est 4500
+
+=== Exécution 20 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 12, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 21 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 7, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 22 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 3, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 23 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 2, ma valeur est 11, mon ancienne valeur est 11 mon intervalle est 4500
+
+=== Exécution 24 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 16, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 25 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 2, ma valeur est 14, mon ancienne valeur est 14 mon intervalle est 4500
+
+=== Exécution 26 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 7, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 27 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 4, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 28 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 4, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 29 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 10, ma valeur est 2, mon ancienne valeur est 2 mon intervalle est 4500
+
+=== Exécution 30 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 17, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 31 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 2, mon ancienne valeur est 2 mon intervalle est 4500
+
+=== Exécution 32 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 5] Je m'appelle 2, ma valeur est 7, mon ancienne valeur est 7 mon intervalle est 4500
+
+=== Exécution 33 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 3, ma valeur est 3, mon ancienne valeur est 3 mon intervalle est 4500
+
+=== Exécution 34 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500Je m'appelle 40, ma valeur est 10, mon ancienne valeur est  10, mon intervalle est 3000
+
+=== Exécution 35 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 36 ===
+Je m'appelle 7, ma valeur est 21, mon ancienne valeur est  21, mon intervalle est 3000
+[Ronde 3] Je m'appelle 2, ma valeur est 15, mon ancienne valeur est 16 mon intervalle est 4500
+
+=== Exécution 37 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 10, ma valeur est 7, mon ancienne valeur est 7 mon intervalle est 4500
+
+=== Exécution 38 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 3, ma valeur est 18, mon ancienne valeur est 18 mon intervalle est 4500
+
+=== Exécution 39 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 14, mon ancienne valeur est 14 mon intervalle est 4500
+
+=== Exécution 40 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 1, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 41 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 4, mon ancienne valeur est 4 mon intervalle est 4500
+
+=== Exécution 42 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 9, ma valeur est 15, mon ancienne valeur est 15 mon intervalle est 4500
+
+=== Exécution 43 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 30, ma valeur est 7, mon ancienne valeur est 7 mon intervalle est 4500
+
+=== Exécution 44 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 10, mon ancienne valeur est 10 mon intervalle est 4500
+
+=== Exécution 45 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 18, ma valeur est 2, mon ancienne valeur est 2 mon intervalle est 4500
+
+=== Exécution 46 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 6, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 47 ===
+Je m'appelle 35, ma valeur est 8, mon ancienne valeur est  8, mon intervalle est 3000
+[Ronde 3] Je m'appelle 10, ma valeur est 12, mon ancienne valeur est 15 mon intervalle est 4500
+
+=== Exécution 48 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 1, ma valeur est 8, mon ancienne valeur est 8 mon intervalle est 4500
+
+=== Exécution 49 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 3] Je m'appelle 7, ma valeur est 6, mon ancienne valeur est 6 mon intervalle est 4500
+
+=== Exécution 50 ===
+âœ… Ã‰tat stable atteint ! Tous les noeuds ont convergÃ©.
+[Ronde 4] Je m'appelle 4, ma valeur est 3, mon ancienne valeur est 3 mon intervalle est 4500
